@@ -1,0 +1,2 @@
+# FlatHost
+Responsive Hosting Template
